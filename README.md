@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Cybersecurity Student | Go Developer | AI Security Explorer
+  Cybersecurity Student | Go Developer | AI Explorer
 </p>
 
 ---
@@ -34,29 +34,15 @@
 
 ---
 
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/impself/LRU-cache-implement">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=impself&repo=LRU-cache-implement&layout=compact&theme=default" />
-  </a>
-  <a href="https://github.com/impself/DWA-">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=impself&repo=DWA-&layout=compact&theme=default" />
-  </a>
-</p>
-
----
 
 ## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---

@@ -1,17 +1,23 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/zlaazlaa">
+  <img src="https://github-readme-stats.vercel.app/api?username=zlaazlaa&show_icons=true&count_private=true&theme=default" alt="GitHub Stats" />
+  </a>
+</p>
 
-<!--
-**impself/impself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/zlaazlaa/LRU-cache-implement">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zlaazlaa&repo=LRU-cache-implement&layout=compact&theme=default" />
+  </a>
+  <a href="https://github.com/zlaazlaa/DWA-">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zlaazlaa&repo=DWA-&layout=compact&theme=default" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=impself&show_icons=true&theme=blue-green&repo=neon)](https://github.com/anuraghazra/github-readme-stats) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://content.zlaaa.top/zlaazlaa/zlaazlaa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://content.zlaaa.top/zlaazlaa/zlaazlaa/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://content.zlaaa.top/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+<p align="center">
+  <img src="https://content.zlaaa.top/zlaazlaa/zlaazlaa/main/github-metrics.svg" alt="Metrics">
+</p>

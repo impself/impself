@@ -20,19 +20,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/impself">
-    <img src="https://github-readme-stats.vercel.app/api?username=impself&show_icons=true&count_private=true&theme=default" alt="GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=impself&layout=compact&theme=default" alt="Top Langs" />
-</p>
-
----
 
 
 ## 🛠 Tech Stack
@@ -47,23 +34,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://content.zlaaa.top/impself/impself/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://content.zlaaa.top/impself/impself/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://content.zlaaa.top/impself/impself/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## 📈 Metrics
-
-<p align="center">
-  <img src="https://content.zlaaa.top/impself/impself/main/github-metrics.svg" alt="Metrics">
-</p>
-
----
 
 ## 📫 Contact
 

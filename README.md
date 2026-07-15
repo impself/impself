@@ -1,14 +1,52 @@
-### Hi here 👋 this is **impself**
-![](https://img.shields.io/badge/Major-CS-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
-![](https://img.shields.io/badge/Linux-use?style=flat&logo=Linux&logoColor=white&label=OS&color=red)
-![](https://img.shields.io/badge/Use-Python-0076ab?style=flat&logo=Python&logoColor=ffffff)
-![](https://img.shields.io/badge/pytorch-use?style=flat&logo=pytorch&label=frame&color=orange)
-![](https://img.shields.io/badge/SpringBoot-use?style=flat&logo=SpringBoot&logoColor=white&label=Use&color=green)
+<div align="center">
 
-| <a href="https://github.com/impself"><img align="center" src="https://github-readme-stats-lake-xi-63.vercel.app/api/top-langs/?username=impself&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&langs_count=3" alt="impself's GitHub Stats" /></a> | <a href="https://github.com/impself"><img align="center" src="https://github-readme-stats-lake-xi-63.vercel.app/api?username=impself&show_icons=true&hide_border=true&theme=transparent" alt="impself's GitHub Stats" /></a> |
-| ------------- | ------------- |
+<!-- Typing SVG -->
+<a href="https://github.com/impself">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00ADD8&center=true&vCenter=true&random=false&width=600&height=60&lines=Hi+there+%F0%9F%91%8B+I'm+impself;Backend+Engineer;Go+%E2%80%A2+Python+%E2%80%A2+React" alt="Typing SVG" />
+</a>
+
+<!-- Tech stack -->
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Claude Code](https://img.shields.io/badge/Claude_Code-19C37D?style=flat&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white)
+
+<!-- Visitor counter -->
+<img src="https://komarev.com/ghpvc/?username=impself&style=flat-square&color=00ADD8&label=Visitors" alt="visitors" />
+
+</div>
+
+<!-- Stats -->
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-lake-xi-63.vercel.app/api?username=impself&show_icons=true&hide_border=true&theme=transparent" alt="stats" />
+<img height="170" src="https://github-readme-stats-lake-xi-63.vercel.app/api/top-langs/?username=impself&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="top langs" />
+<img height="170" src="https://streak-stats.demolab.com?user=impself&hide_border=true&theme=transparent" alt="streak" />
+
+</div>
+
+<!-- Trophy -->
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=impself&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="trophy" />
+
+</div>
+
+<!-- Snake animation from contribution graph -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/impself/impself/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/impself/impself/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/impself/impself/output/github-contribution-grid-snake.svg">
 </picture>
+
+<!-- Social -->
+<div align="center">
+
+<a href="mailto:ruotong00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="https://impself.github.io/"><img src="https://img.shields.io/badge/Blog-FF7139?style=flat&logo=firefox&logoColor=white" alt="blog" /></a>
+
+</div>

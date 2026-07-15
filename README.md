@@ -29,12 +29,7 @@
 
 </div>
 
-<!-- Trophy -->
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=impself&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="trophy" />
-
-</div>
 
 <!-- Snake animation from contribution graph -->
 <picture>

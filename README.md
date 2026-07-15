@@ -1,46 +1,14 @@
-<h1 align="center">Hi there 👋 I'm impself</h1>
+### Hi here 👋 this is **impself**
+![](https://img.shields.io/badge/Major-CS-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
+![](https://img.shields.io/badge/Linux-use?style=flat&logo=Linux&logoColor=white&label=OS&color=red)
+![](https://img.shields.io/badge/Use-Python-0076ab?style=flat&logo=Python&logoColor=ffffff)
+![](https://img.shields.io/badge/pytorch-use?style=flat&logo=pytorch&label=frame&color=orange)
+![](https://img.shields.io/badge/SpringBoot-use?style=flat&logo=SpringBoot&logoColor=white&label=Use&color=green)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=impself&label=Profile%20Views&color=0e75b6&style=flat" alt="impself" />
-</p>
-
-<p align="center">
-  Cybersecurity Student | Go Developer | AI Explorer
-</p>
-
----
-
-## 🚀 About Me
-
-- 🎓 Cybersecurity student
-- 💻 Interested in Go, distributed systems, and backend development
-- 🔐 Focused on threat modeling, attack chain research, and BAS
-- 🤖 Exploring AI Agent and security-related applications
-- 🌱 Currently learning system design, concurrent programming, and practical security engineering
-
----
-
-
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
----
-
-
-## 📫 Contact
-
-- GitHub: [@impself](https://github.com/impself)
-
----
-
-<p align="center">
-  Thanks for visiting my profile ✨
-</p>
+| <a href="https://github.com/impself"><img align="center" src="https://github-readme-stats-lake-xi-63.vercel.app/api/top-langs/?username=impself&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&langs_count=3" alt="impself's GitHub Stats" /></a> | <a href="https://github.com/impself"><img align="center" src="https://github-readme-stats-lake-xi-63.vercel.app/api?username=impself&show_icons=true&hide_border=true&theme=transparent" alt="impself's GitHub Stats" /></a> |
+| ------------- | ------------- |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>

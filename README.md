@@ -41,7 +41,7 @@
 <!-- Social -->
 <div align="center">
 
-<a href="mailto:ruotong00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
-<a href="https://impself.github.io/"><img src="https://img.shields.io/badge/Blog-FF7139?style=flat&logo=firefox&logoColor=white" alt="blog" /></a>
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ruotong00@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-FF7139?style=flat&logo=firefox&logoColor=white)](https://impself.github.io/)
 
 </div>
